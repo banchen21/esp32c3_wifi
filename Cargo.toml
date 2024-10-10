@@ -1,8 +1,8 @@
 [package]
 name = "esp32c3_wifi"
-version = "0.1.1"
+version = "0.1.2"
 edition = "2021"
-authors = ["banchen <banchen8964@gmail.com>", "Sergio Gasquez <sergio.gasquez@gmail.com>"]
+authors = ["banchen21 <banchen8964@gmail.com>", "Sergio Gasquez <sergio.gasquez@gmail.com>"]
 
 # 添加描述
 description = "A Rust library for managing WiFi on the ESP32-C3 microcontroller."
@@ -14,10 +14,10 @@ license = "MIT OR Apache-2.0"
 documentation = "https://docs.rs/esp32c3_wifi"
 
 # 添加主页（如果有的话）
-homepage = "https://github.com/yourusername/esp32c3_wifi"
+homepage = "https://github.com/banchen21/esp32c3_wifi"
 
 # 添加代码仓库信息
-repository = "https://github.com/yourusername/esp32c3_wifi.git"
+repository = "https://github.com/banchen21/esp32c3_wifi.git"
 
 [dependencies]
 anyhow = "=1.0.86"
