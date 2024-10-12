@@ -1,7 +1,7 @@
 # use crate
 ```toml
 [dependencies]
-esp32c3_wifi = "0.1.2"
+esp32c3_wifi = "0.1.3"
 ```
 # use conn wifi
 ```rust
